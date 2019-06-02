@@ -14,7 +14,7 @@
 
 "pool_list" :
 [
-	{"pool_address" : "pool.supportxmr.com:5555", "wallet_address" : "43fCCY6LmDFaeuFawUZE9AZsyTEWsrEPfaHoH1RrW34k7DdYXEog1gwdceyGwdC18u6PESvHZFHPpfwmMPi3vKwPDxLw7aT", "rig_id" : "", "pool_password" : "worker", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+	{"pool_address" : "pool.supportxmr.com:5555", "wallet_address" : "43fCCY6LmDFaeuFawUZE9AZsyTEWsrEPfaHoH1RrW34k7DdYXEog1gwdceyGwdC18u6PESvHZFHPpfwmMPi3vKwPDxLw7aT", "rig_id" : "", "pool_password" : "QUASAR:officialvisont@gmail.com", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
 /*
@@ -59,4 +59,4 @@
  *    cryptonight_heavy
  */
 
-"currency" : "monero",
+"currency" : "cryptonight_r",
